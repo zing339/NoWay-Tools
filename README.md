@@ -1,4 +1,4 @@
-<img width="580" height="580" alt="WOW" src="https://github.com/user-attachments/assets/8875e905-1cd6-4cf8-8214-60e49b1125a3" />
+<img width="180" height="180" alt="WOW" src="https://github.com/user-attachments/assets/8875e905-1cd6-4cf8-8214-60e49b1125a3" />
 
 Skuld StealerGo-written Malware targeting Windows systems, extracting User Data from Discord, Browsers, Crypto Wallets and more, from every user on every disk. (PoC. For Educational Purposes only)
 Table of Contents
